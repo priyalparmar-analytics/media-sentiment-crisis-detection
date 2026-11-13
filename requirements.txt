@@ -1,0 +1,8 @@
+pandas>=2.0
+requests>=2.31
+python-dotenv>=1.0
+vaderSentiment>=3.3
+textblob>=0.18
+plotly>=5.18
+nbformat>=5.9      # Plotly needs this to render inside Jupyter
+jupyter>=1.0
