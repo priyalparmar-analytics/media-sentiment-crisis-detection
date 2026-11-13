@@ -142,7 +142,6 @@ cp .env.example .env
 media-sentiment-crisis-detection/
 │
 ├── README.md
-├── LICENSE
 ├── requirements.txt
 ├── .env.example                 NEWSAPI_KEY — no real key is committed
 │
